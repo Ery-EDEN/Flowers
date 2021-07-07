@@ -22,3 +22,5 @@ Border size : 2px;
 Button hover: pink border, font / white background;
 Smooth scroll
 Animation d'arrivage des images : Opacity / Movement;
+
+_________________________________________________________
